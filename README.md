@@ -1,7 +1,7 @@
 # Hi, I'm Pratham Joshi 👋
 
 🎓 IT Engineering Student at Chandigarh University  
-💻 Full Stack & AI Developer  
+💻 Aspiring Full Stack & AI Developer
 🚀 Focused on building scalable real-world applications and improving AI development skills  
 
 ---

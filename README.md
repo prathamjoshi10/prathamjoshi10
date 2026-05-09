@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Pratham Joshi 👋
 
-<!--
-**prathamjoshi10/prathamjoshi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Engineering Student at Chandigarh University  
+💻 Full Stack & AI Developer  
+🚀 Focused on building scalable real-world applications and improving AI development skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Full Stack Development
+- AI Integration
+- Backend Development
+- Freelancing & Online Business
+
+---
+
+## Tech Stack
+- React
+- Node.js
+- Express.js
+- MongoDB
+- JavaScript
+- Python
+- Git & GitHub
+
+---
+
+## 2026 Goals
+- Build strong portfolio projects
+- Become internship-ready
+- Start freelancing
+- Improve communication & discipline
+- Learn scalable AI applications
+
+---
+
+## Currently Working On
+- Improving full stack skills
+- Learning AI APIs & integrations
+- Building real-world development projects
+
+---
+
+## Connect With Me
+📍 Chandigarh, India
